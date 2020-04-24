@@ -1,2 +1,0 @@
-# gameSearchApp
-Created with CodeSandbox
